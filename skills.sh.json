@@ -1,0 +1,13 @@
+{
+  "$schema": "https://skills.sh/schemas/skills.sh.schema.json",
+  "notGrouped": "bottom",
+  "groupings": [
+    {
+      "title": "Design Systems & Icons",
+      "description": "Skills for designing, validating, and generating production-ready icons and design tokens.",
+      "skills": [
+        "draw-icons"
+      ]
+    }
+  ]
+}

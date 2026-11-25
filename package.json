@@ -1,0 +1,13 @@
+{
+  "name": "@dqev/skills",
+  "version": "1.0.0",
+  "description": "Agent skills by Dev Chauhan (@dqev) for skills.sh",
+  "author": "Dev Chauhan (https://github.com/dqev)",
+  "homepage": "https://github.com/dqev/skills",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dqev/skills.git"
+  },
+  "license": "MIT",
+  "type": "module"
+}
